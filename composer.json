@@ -9,7 +9,7 @@
         "laminas-api-tools"
     ],
     "require": {
-        "php": "^7.3 || ~8.0",
+        "php": "^7.3 || ^8.0",
         "laminas/laminas-modulemanager": "^2.10.1",
         "laminas/laminas-stdlib": "^2.7 || ^3.0",
         "api-skeletons/oauth2-doctrine": "^4.0 || ^5.1"
